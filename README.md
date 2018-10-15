@@ -1,9 +1,9 @@
-### armstrong-js
+## armstrong-js
 
 Crie um arquivo chamado `armstrong.js` que possui uma função `validadorArmstrong`. essa função deve ser implementada para validar 
 se um numero passado por parâmetro é Armstrong ou não.
 
-__Armtrong:__
+### Armtrong:
 Conceito da Álgebra: é um número de n dígitos que é igual a soma de cada um dos seus dígitos elevado a n-ésima potência.
 
 > Por exemplo, `153` (n = três dígitos) é igual a `1^3` + `5^3` + `3^3` = 1 + 125 + 27 = `153`
